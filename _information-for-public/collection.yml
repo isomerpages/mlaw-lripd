@@ -2,8 +2,6 @@ collections:
   information-for-public:
     output: true
     order:
-      - Licensing Actions Taken/2024.md
-      - Licensing Actions Taken/.keep
       - Licensing Actions Taken.md
       - about-the-licensing-officer.md
       - as-an-insolvency-practitioner.md
