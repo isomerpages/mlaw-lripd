@@ -33,7 +33,7 @@ licences.</p>
 <p>Lim Lian Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2023</p>
+<p>1 Jul 2023</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ licences.</p>
 <p>Amran Bin Robani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ licences.</p>
 <p>Ang Kong Meng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ licences.</p>
 <p>Chan Kum Kit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ licences.</p>
 <p>Chin Sin Beng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ licences.</p>
 <p>Gui Kim Young</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ licences.</p>
 <p>Loke Poh Keun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +121,7 @@ licences.</p>
 <p>Low Aik Har</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +132,7 @@ licences.</p>
 <p>O'reilly Mark Peter</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +143,7 @@ licences.</p>
 <p>Patel Anand Rameshchandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ licences.</p>
 <p>Sim Guan Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ licences.</p>
 <p>Tan Mong Geok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ licences.</p>
 <p>Tee Wey Lih</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@ licences.</p>
 <p>Wee Koon San</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@ licences.</p>
 <p>Yap Meng Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 Jun 2024</p>
+<p>1 Jul 2024</p>
 </td>
 </tr>
 </tbody>
