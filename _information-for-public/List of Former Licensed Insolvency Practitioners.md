@@ -16,13 +16,16 @@ licences.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>No.</p>
+<p><strong>No.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of former licensed IP</p>
+<p><strong>Name of former licensed IP</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Cessation Date</p>
+<p><strong>Cessation Date</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +132,7 @@ licences.</p>
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>O'reilly Mark Peter</p>
+<p>O'Reilly Mark Peter</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
