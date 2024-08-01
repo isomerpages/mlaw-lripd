@@ -12,3 +12,5 @@ Act 2018.</p>
 </p>
 <p><a href="/information-for-public/licensing-actions-taken/2024/mr-tan-ng-kuang/" rel="noopener noreferrer nofollow" target="_blank">Mr Tan Ng Kuang</a>
 </p>
+<p><a href="information-for-public/licensing-actions-taken/2024/ms-lim-siew-soo/" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Siew Soo</a>
+</p>
