@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Licensing Actions Taken/.keep
-      - 2024.md
       - Licensing Actions Taken.md
       - about-the-licensing-officer.md
       - as-an-insolvency-practitioner.md
