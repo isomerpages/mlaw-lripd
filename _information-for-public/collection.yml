@@ -2,9 +2,9 @@ collections:
   information-for-public:
     output: true
     order:
-      - List of Former Licensed Insolvency Practitioners.md
       - about-the-licensing-officer.md
       - as-an-insolvency-practitioner.md
+      - List of Former Licensed Insolvency Practitioners.md
       - register-of-insolvency-practitioners.md
       - Licensing Actions Taken.md
       - filing-a-complaint-against-an-insolvency-practitioner.md
