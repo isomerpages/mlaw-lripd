@@ -313,5 +313,5 @@ whose licences have either been cancelled or expired.</p>
 </table>
 <p>If you wish to be reinstated as a licensed insolvency practitioner, you
 may see <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the application process.</p>
+the licence application process.</p>
 <p></p>
