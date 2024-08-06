@@ -6,8 +6,9 @@ description: ""
 ---
 <p>The table below contains a list of former licensed insolvency practitioners
 whose licences have either been cancelled or expired.</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -28,6 +29,10 @@ whose licences have either been cancelled or expired.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Licence No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Effective Date</strong>
 </p>
 </td>
@@ -41,6 +46,9 @@ whose licences have either been cancelled or expired.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2023</p>
@@ -57,6 +65,9 @@ whose licences have either been cancelled or expired.</p>
 <p>Cancelled</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>21 Feb 2024</p>
 </td>
 </tr>
@@ -69,6 +80,9 @@ whose licences have either been cancelled or expired.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -85,6 +99,9 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -97,6 +114,9 @@ whose licences have either been cancelled or expired.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -113,6 +133,9 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -125,6 +148,9 @@ whose licences have either been cancelled or expired.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -141,6 +167,9 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -153,6 +182,9 @@ whose licences have either been cancelled or expired.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -169,6 +201,9 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -181,6 +216,9 @@ whose licences have either been cancelled or expired.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -197,6 +235,9 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -209,6 +250,9 @@ whose licences have either been cancelled or expired.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -225,6 +269,9 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -239,6 +286,9 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -251,6 +301,9 @@ whose licences have either been cancelled or expired.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
