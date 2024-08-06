@@ -48,7 +48,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00036-2020</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2023</p>
@@ -65,7 +65,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Cancelled</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00005-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>21 Feb 2024</p>
@@ -82,7 +82,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00059-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -99,7 +99,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00017-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -116,7 +116,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00051-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -133,7 +133,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00056-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -150,7 +150,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00001-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -167,7 +167,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00016-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -184,7 +184,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00053-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -201,7 +201,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00030-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -218,7 +218,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00055-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -235,7 +235,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00015-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -252,7 +252,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00039-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -269,7 +269,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00023-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -286,7 +286,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C1-00033-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -303,7 +303,7 @@ whose licences have either been cancelled or expired.</p>
 <p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>C2-00001-2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
