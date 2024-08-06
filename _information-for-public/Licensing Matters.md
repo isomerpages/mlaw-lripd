@@ -76,7 +76,7 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Mr Chan Kum Kit</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+<p>On 1 July 2024, Mr Chan Kum Kit ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
 </div>
 </details>
@@ -86,7 +86,7 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Mr Chin Sin Beng</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+<p>On 1 July 2024, Mr Chin Sin Beng ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
 </div>
 </details>
@@ -96,7 +96,7 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Mr Gui Kim Young</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+<p>On 1 July 2024, Mr Gui Kim Young ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
 </div>
 </details>
@@ -106,7 +106,7 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Mr Loke Poh Keun</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+<p>On 1 July 2024, Mr Loke Poh Keun ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
 </div>
 </details>
