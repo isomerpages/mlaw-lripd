@@ -136,8 +136,8 @@ practitioner by reason of the expiry of his licence.</p>
 <summary><strong>Mr Patel Anand Rameshchandra</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
-by reason of the expiry of his licence.</p>
+<p>On 1 July 2024, Mr Patel Anand Rameshchandra ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
@@ -146,7 +146,7 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Mr Sim Guan Seng</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+<p>On 1 July 2024, Mr Sim Guan Seng ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
 </div>
 </details>
@@ -156,7 +156,7 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Mr Tan Mong Geok</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+<p>On 1 July 2024, Mr Tan Mong Geok ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
 </div>
 </details>
