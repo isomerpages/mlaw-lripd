@@ -4,14 +4,10 @@ permalink: /licensing-action-taken/
 variant: tiptap
 description: ""
 ---
-<p>This list sets out the licensing action taken by the Licensing Officer
-pursuant to section 56 of the Insolvency, Restructuring and Dissolution
-Act 2018.</p>
-<p></p>
 <h3><strong>2024</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Tan Ng Kuang </strong>
+<summary><strong>Mr Tan Ng Kuang</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2024, the Licensing Officer, pursuant to section 56(2)(<em>c</em>)
@@ -45,4 +41,5 @@ his conduct in relation to CA/CA 146/2019.</p>
 </div>
 </details>
 </div>
+<h3><strong>2023</strong></h3>
 <p></p>
