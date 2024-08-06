@@ -7,8 +7,9 @@ description: ""
 <p>The table below contains a list of the former licensed insolvency practitioners
 who have either cancelled or did not renew their insolvency practitioner's
 licences.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -24,6 +25,10 @@ licences.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Status of Licence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Cessation Date</strong>
 </p>
 </td>
@@ -34,6 +39,9 @@ licences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lim Lian Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2023</p>
@@ -47,6 +55,9 @@ licences.</p>
 <p>Yin Kum Choy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Cancelled</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>21 Feb 2024</p>
 </td>
 </tr>
@@ -56,6 +67,9 @@ licences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Amran Bin Robani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -69,6 +83,9 @@ licences.</p>
 <p>Ang Kong Meng</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -78,6 +95,9 @@ licences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chan Kum Kit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -91,6 +111,9 @@ licences.</p>
 <p>Chin Sin Beng</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -100,6 +123,9 @@ licences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gui Kim Young</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -113,6 +139,9 @@ licences.</p>
 <p>Loke Poh Keun</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -122,6 +151,9 @@ licences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Low Aik Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -135,6 +167,9 @@ licences.</p>
 <p>O'Reilly Mark Peter</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -144,6 +179,9 @@ licences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Patel Anand Rameshchandra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -157,6 +195,9 @@ licences.</p>
 <p>Sim Guan Seng</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -166,6 +207,9 @@ licences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tan Mong Geok</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -179,6 +223,9 @@ licences.</p>
 <p>Tee Wey Lih</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
@@ -188,6 +235,9 @@ licences.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wee Koon San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Expired</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
@@ -201,9 +251,15 @@ licences.</p>
 <p>Yap Meng Choo</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Expired</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>1 Jul 2024</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>If you wish to be reinstated as a licensed insolvency practitioner, you
+may see <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the application process.</p>
 <p></p>
