@@ -191,7 +191,6 @@ by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
-<p></p>
 <h3><strong>2023</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
