@@ -4,7 +4,7 @@ permalink: /licensing-action-taken/
 variant: tiptap
 description: ""
 ---
-<p>This list contains the licensing actions taken by the Licensing Officer
+<p>This list sets out the licensing action taken by the Licensing Officer
 pursuant to section 56 of the Insolvency, Restructuring and Dissolution
 Act 2018.</p>
 <p></p>
@@ -24,15 +24,14 @@ his conduct in relation to CA/CA 146/2019.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Lim Siew Soo – Censure</strong>
+<summary><strong>Ms Lim Siew Soo </strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2024, the Licensing Officer, pursuant to section 56(2)(c) of
 the Insolvency, Restructuring and Dissolution Act 2018, ordered that Ms
-Lim Siew Soo (Licence Certificate No. C1-00096-2023) be censured for contravening
-[9] of the Conditions Imposed by the Licensing Officer for the Grant or
-Renewal of Insolvency Practitioner’s Licence through her conduct in relation
-to CA/CA 146/2019.</p>
+Lim Siew Soo be censured for contravening for contravening the general
+licence conditions imposed by the Licensing Officer in respect of her conduct
+in CA/CA 146/2019.</p>
 </div>
 </details>
 </div>
