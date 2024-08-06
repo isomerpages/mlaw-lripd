@@ -39,16 +39,6 @@ his conduct in relation to CA/CA 146/2019.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Yin Kum Choy</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>On 21 February 2024, Mr Yin Kum Choy ceased to be a licensed insolvency
-practitioner by reason of the cancellation of his licence.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
 <summary><strong>Mr Chan Kum Kit</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -183,11 +173,21 @@ by reason of the expiry of his licence.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Yap Meng Choo</strong>
+<summary><strong>Ms Yap Meng Choo</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2024, Mr Yap Meng Choo ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Yin Kum Choy</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 21 February 2024, Mr Yin Kum Choy ceased to be a licensed insolvency
+practitioner by reason of the cancellation of his licence.</p>
 </div>
 </details>
 </div>
