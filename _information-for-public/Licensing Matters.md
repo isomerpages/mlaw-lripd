@@ -161,7 +161,16 @@ by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
-<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Tee Wey Lih</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2024, Mr Tee Wey Lih ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
 <p></p>
 <h3><strong>2023</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
