@@ -56,10 +56,42 @@ practitioner by reason of the cancellation of his licence.</p>
 <summary><strong>Mr Amran bin Robani</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Ang Kong Meng</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Chan Kum Kit</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Chin Sin Beng</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<p></p>
 <p></p>
 <h3><strong>2023</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
