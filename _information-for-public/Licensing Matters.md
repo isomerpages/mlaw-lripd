@@ -186,7 +186,7 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Mr Yap Meng Choo</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Wee Koon San ceased to be a licensed insolvency practitioner
+<p>On 1 July 2024, Mr Yap Meng Choo ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
 </div>
 </details>
