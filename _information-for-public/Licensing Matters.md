@@ -7,25 +7,21 @@ description: ""
 <h3><strong>2024</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Tan Ng Kuang</strong>
+<summary><strong>Mr Amran bin Robani</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, the Licensing Officer, pursuant to section 56(2)(<em>c</em>)
-of the Insolvency, Restructuring and Dissolution Act 2018, ordered that
-Mr Tan Ng Kuang be censured for contravening [9] of the <em>Conditions Imposed by the Licensing Officer for the Grant or Renewal of Insolvency Practitioner’s Licence </em>through
-his conduct in relation to CA/CA 146/2019.</p>
+<p>On 1 July 2024, Mr Amran bin Robani ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Ms Lim Siew Soo</strong>
+<summary><strong>Mr Ang Kong Meng</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, the Licensing Officer, pursuant to section 56(2)(<em>c</em>)
-of the Insolvency, Restructuring and Dissolution Act 2018, ordered that
-Ms Lim Siew Soo be censured for contravening [9] of the <em>Conditions Imposed by the Licensing Officer for the Grant or Renewal of Insolvency Practitioner’s Licence </em>through
-her conduct in relation to CA/CA 146/2019.</p>
+<p>On 1 July 2024, Mr Ang Kong Meng ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
@@ -48,26 +44,6 @@ his conduct in relation to CA/CA 146/2019.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 21 February 2024, Mr Yin Kum Choy ceased to be a licensed insolvency
 practitioner by reason of the cancellation of his licence.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Mr Amran bin Robani</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Amran bin Robani ceased to be a licensed insolvency
-practitioner by reason of the expiry of his licence.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Mr Ang Kong Meng</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Ang Kong Meng ceased to be a licensed insolvency practitioner
-by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
@@ -98,6 +74,18 @@ by reason of the expiry of his licence.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2024, Mr Gui Kim Young ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Lim Siew Soo</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2024, the Licensing Officer, pursuant to section 56(2)(<em>c</em>)
+of the Insolvency, Restructuring and Dissolution Act 2018, ordered that
+Ms Lim Siew Soo be censured for contravening [9] of the <em>Conditions Imposed by the Licensing Officer for the Grant or Renewal of Insolvency Practitioner’s Licence </em>through
+her conduct in relation to CA/CA 146/2019.</p>
 </div>
 </details>
 </div>
@@ -163,10 +151,42 @@ by reason of the expiry of his licence.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Mr Tan Ng Kuang</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2024, the Licensing Officer, pursuant to section 56(2)(<em>c</em>)
+of the Insolvency, Restructuring and Dissolution Act 2018, ordered that
+Mr Tan Ng Kuang be censured for contravening [9] of the <em>Conditions Imposed by the Licensing Officer for the Grant or Renewal of Insolvency Practitioner’s Licence </em>through
+his conduct in relation to CA/CA 146/2019.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Mr Tee Wey Lih</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2024, Mr Tee Wey Lih ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Wee Koon San</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2024, Mr Wee Koon San ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Yap Meng Choo</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2024, Mr Wee Koon San ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
 </div>
 </details>
