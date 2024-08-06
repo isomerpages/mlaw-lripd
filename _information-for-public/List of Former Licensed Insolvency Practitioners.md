@@ -4,9 +4,8 @@ permalink: /list-of-former-licensed-insolvency-practitioners/
 variant: tiptap
 description: ""
 ---
-<p>The table below contains a list of the former licensed insolvency practitioners
-who have either cancelled or did not renew their insolvency practitioner's
-licences.</p>
+<p>The table below contains a list of former licensed insolvency practitioners
+whose licences have either been cancelled or expired.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -29,7 +28,7 @@ licences.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Cessation Date</strong>
+<p><strong>Effective Date</strong>
 </p>
 </td>
 </tr>
