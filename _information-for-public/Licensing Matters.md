@@ -41,5 +41,37 @@ his conduct in relation to CA/CA 146/2019.</p>
 </div>
 </details>
 </div>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Yin Kum Choy</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>On 21 February 2024, Mr Yin Kum Choy ceased to be a licensed insolvency
+practitioner by reason of the cancellation of his licence.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h3><strong>2023</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Lim Lian Soon</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>On 1 July 2023, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
