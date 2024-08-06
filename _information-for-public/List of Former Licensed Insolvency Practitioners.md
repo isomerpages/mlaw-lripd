@@ -21,7 +21,7 @@ licences.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Name of former licensed IP</strong>
+<p><strong>Licensee Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
