@@ -116,7 +116,7 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Mr Low Aik Har</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
+<p>On 1 July 2024, Mr Low Aik Har ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
 </div>
 </details>
@@ -126,8 +126,8 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Mr O'Reilly Mark Peter</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Lim Lian Soon ceased to be a licensed insolvency practitioner
-by reason of the expiry of his licence.</p>
+<p>On 1 July 2024, Mr O'Reilly Mark Peter ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
