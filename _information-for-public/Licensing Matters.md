@@ -10,7 +10,7 @@ description: ""
 <summary><strong>Mr Amran Bin Robani</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Amran bin Robani ceased to be a licensed insolvency
+<p>On 1 July 2024, Mr Amran Bin Robani ceased to be a licensed insolvency
 practitioner by reason of the expiry of his licence.</p>
 </div>
 </details>
