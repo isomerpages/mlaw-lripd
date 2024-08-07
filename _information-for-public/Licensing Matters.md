@@ -7,7 +7,7 @@ description: ""
 <h3><strong>2024</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Amran bin Robani</strong>
+<summary><strong>Mr Amran Bin Robani</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2024, Mr Amran bin Robani ceased to be a licensed insolvency
