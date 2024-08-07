@@ -30,9 +30,9 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Mr Brendon Yeo Sau Jin</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, the Licensing Officer, pursuant to section 56(2)(c) of
-the Insolvency, Restructuring and Dissolution Act 2018, ordered that Mr
-Brendon Yeo Sau Jin be censured for contravening [9] of the <em>Conditions Imposed by the Licensing Officer for the Grant or Renewal of Insolvency Practitioner’s Licence </em>through
+<p>On 1 July 2024, the Licensing Officer, pursuant to section 56(2)(<em>c</em>)
+of the Insolvency, Restructuring and Dissolution Act 2018, ordered that
+Mr Brendon Yeo Sau Jin be censured for contravening [9] of the <em>Conditions Imposed by the Licensing Officer for the Grant or Renewal of Insolvency Practitioner’s Licence </em>through
 his conduct in relation to CA/CA 146/2019.</p>
 </div>
 </details>
