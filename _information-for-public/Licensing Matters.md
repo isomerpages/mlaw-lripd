@@ -131,11 +131,11 @@ by reason of the expiry of his licence.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Tan Mong Geok</strong>
+<summary><strong>Ms Tan Mong Geok</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Tan Mong Geok ceased to be a licensed insolvency practitioner
-by reason of the expiry of his licence.</p>
+<p>On 1 July 2024, Ms Tan Mong Geok ceased to be a licensed insolvency practitioner
+by reason of the expiry of her licence.</p>
 </div>
 </details>
 </div>
@@ -176,8 +176,8 @@ by reason of the expiry of his licence.</p>
 <summary><strong>Ms Yap Meng Choo</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2024, Mr Yap Meng Choo ceased to be a licensed insolvency practitioner
-by reason of the expiry of his licence.</p>
+<p>On 1 July 2024, Ms Yap Meng Choo ceased to be a licensed insolvency practitioner
+by reason of the expiry of her licence.</p>
 </div>
 </details>
 </div>
