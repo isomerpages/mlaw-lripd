@@ -6,7 +6,7 @@ variant: markdown
 ---
 **Register of Insolvency Practitioners**<br>
 ---
-Please click 
+Please click
 <a href="(/files/Register_of_Licensed_Insolvency_Practitioners_2024_09_01.pdf))" target="_blank">here</a> for the list of licensed insolvency practitioners in Singapore.
 <br>
 
