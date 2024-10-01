@@ -5,8 +5,8 @@ breadcrumb: Register of Insolvency Practitioners
 variant: tiptap
 ---
 <h2><strong>Register of Insolvency Practitioners</strong><br></h2>
-<p>Please click <a href="/files/Register_of_Licensed_Insolvency_Practitioners_2024_10_01_v1.pdf" rel="noopener noreferrer nofollow" target="_blank">her</a>
-<a href="/files/Register_of_Licensed_Insolvency_Practitioners_2024_10_01_v1.pdf" rel="noopener nofollow" target="_blank">e</a>for the list of licensed insolvency practitioners in Singapore.
+<p>Please click <a href="/files/Register_of_Licensed_Insolvency_Practitioners_2024_10_01_v1.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the list of licensed insolvency practitioners in Singapore.
 <br>
 </p>
 <p>For the licensed insolvency practitioners whose licence end date reflects
