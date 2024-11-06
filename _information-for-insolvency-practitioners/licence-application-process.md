@@ -9,8 +9,7 @@ variant: tiptap
 <br><a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Where to Apply" rel="noopener nofollow" target="_blank">Where to Apply</a>|
 <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Documents Required" rel="noopener nofollow" target="_blank">Documents Required</a>| <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Validity of the Licence" rel="noopener nofollow" target="_blank">Validity of the Licence</a>|
 <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Prescribed Fee" rel="noopener nofollow" target="_blank">Prescribed Fee</a>| <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Processing Time" rel="noopener nofollow" target="_blank">Processing Time</a>|
-<br><a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Notification of Outcome" rel="noopener nofollow" target="_blank">Notification of Outcome</a>|
-<a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Need Help?" rel="noopener nofollow" target="_blank">Need Help?</a>
+<a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Notification of Outcome" rel="noopener nofollow" target="_blank">Notification of Outcome</a>| <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Need Help?" rel="noopener nofollow" target="_blank">Need Help?</a>
 </p>
 <p></p><a class="isomer-image-wrapper" href="/files/Infographic_2A___Licence_Application_Process_061124_v1.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_2A___Licence_Application_Process.jpg"></a>
 <p>
