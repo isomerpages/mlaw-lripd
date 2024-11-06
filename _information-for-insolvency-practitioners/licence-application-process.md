@@ -12,7 +12,7 @@ variant: tiptap
 <br><a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Notification of Outcome" rel="noopener nofollow" target="_blank">Notification of Outcome</a>|
 <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Need Help?" rel="noopener nofollow" target="_blank">Need Help?</a>
 </p>
-<p></p><a class="isomer-image-wrapper" href="/files/Infographic 2A - Licence Application Process 061124_v1.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_2A___Licence_Application_Process.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="/files/Infographic_2A___Licence_Application_Process_061124_v1.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_2A___Licence_Application_Process.jpg"></a>
 <p>
 <br><strong>Where to Apply</strong>
 <br>
