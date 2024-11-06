@@ -14,16 +14,16 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" src="/images/infographic%202a%20-%20licence%20application%20process.jpg">
 </div>
 <p>
-<br>**Where to Apply**
+<br><strong>Where to Apply</strong>
 <br>
-<br>Please submit your application through the Government’s [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login)
-using either your SINGPASS (For Singaporeans / Singapore Permanent Residents
+<br>Please submit your application through the Government’s <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener nofollow" target="_blank">GoBusiness Dashboard</a> using
+either your SINGPASS (For Singaporeans / Singapore Permanent Residents
 ("SPR")) or GoBusiness Foreign User Account (For non-Singaporean).
 <br>
-<br>For non-Singaporean without Singpass, please click [here](https://gobusiness.gov.sgdashboard-faqs/account-access/foreign-users-individual)
-to register a new user account before you submit your application.
+<br>For non-Singaporean without Singpass, please click <a href="https://gobusiness.gov.sg/dashboard-faqs/account-access/foreign-users-individual" rel="noopener nofollow" target="_blank">here</a> to
+register a new user account before you submit your application.
 <br>
-<br>**Documents Required**
+<br><strong>Documents Required</strong>
 <br>
 <br>Please attach a copy of the following documents when submitting your licence
 application online:
@@ -159,7 +159,7 @@ to:
 licence in a foreign jurisdiction for a minimum of 3 continuous years;
 and
 <br>
-<br>ii. Applicant&nbsp; has acted as the equivalent of a licensed insolvency
+<br>ii. Applicant&nbsp;has acted as the equivalent of a licensed insolvency
 practitioner in relation to a corporation under any foreign law, in respect
 of proceedings relating to corporate insolvency, restructuring or dissolution
 that are international and commercial in nature; or where relief was sought
@@ -247,7 +247,7 @@ based on the information submitted.
 <br>You will be notified of the outcome of your licence application via post
 and email. If your application is successful, you will also receive a copy
 of the insolvency practitioner's licence. The update on the status of your
-application will also be available on the GoBusiness Licensing Portal.
+application will also be available on the GoBusiness Dashboard.
 <br>
 <br><strong>Need Help?</strong>
 <br>
