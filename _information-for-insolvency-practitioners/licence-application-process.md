@@ -10,8 +10,9 @@ variant: tiptap
 <a href="#Processing Time" rel="noopener noreferrer nofollow" target="_blank">Processing Time</a>| <a href="#Notification of Outcome" rel="noopener noreferrer nofollow" target="_blank">Notification of Outcome</a> | <a href="#Need Help?" rel="noopener noreferrer nofollow" target="_blank">Need Help?</a>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/infographic%202a%20-%20licence%20application%20process.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_2A___Licence_Application_Process.jpg">
 </div>
 <p>
 <br><strong>Where to Apply</strong>
