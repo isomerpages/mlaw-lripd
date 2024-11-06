@@ -22,7 +22,7 @@ requires a licensed insolvency practitioner to notify the Licensing Officer
 of any change in particulars <strong>within one week</strong> after the change
 is made.
 <br>
-<br>Please update the change(s) via the Government’s <a href="https://www.gobusiness.gov.sg/licences" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing Platform</a> by
+<br>Please update the change(s) via the Government’s <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener nofollow" target="_blank">GoBusiness Dashboard</a> by
 clicking under "Licence Application" and "Amend Existing Licence". Please
 refer to our step-by-step <a href="/files/20200706 Licence Application Guide for Insolvency Practitioners.pdf" rel="noopener noreferrer nofollow" target="_blank">Licence Application Guide</a> for
 more information.
@@ -33,8 +33,8 @@ more information.
 <br>
 </p>
 <p>You may cancel your insolvency practitioner’s licence via the Government’s
-<a href="https://www.gobusiness.gov.sg/licences" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Licensing Platform</a>. However, please ensure that you do
-not have any ongoing insolvency or debt restructuring cases under your
-care before submitting the cancellation request.
+<a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener nofollow" target="_blank">GoBusiness Dashboard</a>. However, please ensure that you do not have
+any ongoing insolvency or debt restructuring cases under your care before
+submitting the cancellation request.
 <br>
 </p>
