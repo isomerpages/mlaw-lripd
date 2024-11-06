@@ -18,10 +18,8 @@ variant: tiptap
 href="#Notification of Outcome"&gt;Notification of Outcome&lt;/a&gt; |&nbsp;
 &lt;a href="#Need Help?"&gt;Need Help?&lt;/a&gt;</p>
 <p>&nbsp;</p>
-<p>&lt;a id="Renewal Period"&gt;&lt;/a&gt; <strong>Renewal Period</strong>&nbsp;&nbsp;</p>
-<a class="isomer-image-wrapper" href="files/Infographic_2A___Licence_Application_Process.pdf">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_2A___Licence_Application_Process.jpg">
-</a>
+<p>&lt;a id="Where to Apply"&gt;&lt;/a&gt; <strong>Where to Apply</strong>
+</p><a class="isomer-image-wrapper" href="/files/Infographic_2A___Licence_Application_Process.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_2A___Licence_Application_Process.jpg"></a>
 <p>
 <br><strong>Where to Apply</strong>
 <br>
