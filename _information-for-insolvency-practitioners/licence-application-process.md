@@ -10,7 +10,18 @@ variant: tiptap
 <a href="#Processing Time" rel="noopener noreferrer nofollow" target="_blank">Processing Time</a>| <a href="#Notification of Outcome" rel="noopener noreferrer nofollow" target="_blank">Notification of Outcome</a> | <a href="#Need Help?" rel="noopener noreferrer nofollow" target="_blank">Need Help?</a>
 <br>
 </p>
-<p></p><a class="isomer-image-wrapper" href="files/Infographic_2A___Licence_Application_Process.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_2A___Licence_Application_Process.jpg"></a>
+<p>&lt;a href="#Where to Apply"&gt;Where to Apply&lt;/a&gt;&nbsp; |&nbsp;
+&lt;a href="#Documents Required"&gt;Documents Required&lt;/a&gt;&nbsp;
+|&nbsp; &lt;a href="#Validity of the Licence"&gt;Validity of the Licence&lt;/a&gt;&nbsp;
+|&nbsp; &lt;a href="#Prescribed Fee"&gt;Prescribed Fee&lt;/a&gt; |&nbsp;
+&lt;a href="#Processing Time"&gt;Processing Time&lt;/a&gt; |&nbsp; &lt;a
+href="#Notification of Outcome"&gt;Notification of Outcome&lt;/a&gt; |&nbsp;
+&lt;a href="#Need Help?"&gt;Need Help?&lt;/a&gt;</p>
+<p>&nbsp;</p>
+<p>&lt;a id="Renewal Period"&gt;&lt;/a&gt; <strong>Renewal Period</strong>&nbsp;&nbsp;</p>
+<a class="isomer-image-wrapper" href="files/Infographic_2A___Licence_Application_Process.pdf">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_2A___Licence_Application_Process.jpg">
+</a>
 <p>
 <br><strong>Where to Apply</strong>
 <br>
