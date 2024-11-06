@@ -5,10 +5,14 @@ breadcrumb: Licence Application Process
 variant: tiptap
 ---
 <h2><strong>Licence Application Process</strong></h2>
-<p><a href="#Where to Apply" rel="noopener noreferrer nofollow" target="_blank">Where to Apply</a> |
+<p><a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Where%20to%20Apply" rel="noopener noreferrer nofollow" target="_blank">Where to Apply</a> |
 <a href="#Documents Required" rel="noopener noreferrer nofollow" target="_blank">Documents Required</a>| <a href="#Validity of the Licence" rel="noopener noreferrer nofollow" target="_blank">Validity of the Licence </a>| <a href="#Prescribed Fee" rel="noopener noreferrer nofollow" target="_blank">Prescribed Fee</a> |
 <a href="#Processing Time" rel="noopener noreferrer nofollow" target="_blank">Processing Time</a>| <a href="#Notification of Outcome" rel="noopener noreferrer nofollow" target="_blank">Notification of Outcome</a> | <a href="#Need Help?" rel="noopener noreferrer nofollow" target="_blank">Need Help?</a>
-<br>
+<br><a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Where%20to%20Apply" rel="noopener nofollow" target="_blank">Where to Apply</a> |
+<a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Documents%20Required" rel="noopener nofollow" target="_blank">Documents Required</a>| <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Validity%20of%20the%20Licence" rel="noopener nofollow" target="_blank">Validity of the Licence</a> |
+<a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Prescribed%20Fee" rel="noopener nofollow" target="_blank">Prescribed Fee</a>| <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Processing%20Time" rel="noopener nofollow" target="_blank">Processing Time</a> |
+<br><a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Notification%20of%20Outcome" rel="noopener nofollow" target="_blank">Notification of Outcome</a> |
+<a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Need%20Help?" rel="noopener nofollow" target="_blank">Need Help?</a>
 </p><a class="isomer-image-wrapper" href="/files/Infographic_2A___Licence_Application_Process.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_2A___Licence_Application_Process.jpg"></a>
 <p>
 <br><strong>Where to Apply</strong>
