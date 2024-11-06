@@ -30,14 +30,24 @@ application online:
 <br>
 <br>a) Evidence that you are a qualified person within the meaning of section
 50(3) of the Insolvency, Restructuring and Dissolution Act 2018 ("IRDA"):
-<br>* For <strong>Solicitors</strong> – Valid Practising Certificate issued
-by the Supreme Court
-<br>* For <strong>Public Accountants</strong> – Valid Certificate of Registration
-issued by the Accounting and Corporate Regulatory Authority ("ACRA")
-<br>* For <strong>Chartered Accountants</strong> – Recent Certificate of Good
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For <strong>Solicitors</strong> – Valid Practising Certificate issued by
+the Supreme Court</p>
+</li>
+<li>
+<p>For <strong>Public Accountants</strong> – Valid Certificate of Registration
+issued by the Accounting and Corporate Regulatory Authority ("ACRA")</p>
+</li>
+<li>
+<p>For <strong>Chartered Accountants</strong> – Recent Certificate of Good
 Standing issued by the Institute of Singapore Chartered Accountants ("ISCA")
 <br>
 </p>
+</li>
+</ul>
 <p>b) Professional Membership(s) in any local or foreign professional bodies
 relating to your qualification, which may include:
 <br>
