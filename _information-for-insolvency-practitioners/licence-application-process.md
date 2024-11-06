@@ -11,6 +11,8 @@ variant: tiptap
 <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Prescribed Fee" rel="noopener nofollow" target="_blank">Prescribed Fee</a>| <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Processing Time" rel="noopener nofollow" target="_blank">Processing Time</a>|
 <br><a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Notification of Outcome" rel="noopener nofollow" target="_blank">Notification of Outcome</a>|
 <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Need Help?" rel="noopener nofollow" target="_blank">Need Help?</a>
+</p>
+<p><a href="/files/Infographic_2A___Licence_Application_Process_061124_v1.pdf" rel="noopener nofollow" target="_blank">PDF</a>
 </p><a class="isomer-image-wrapper" href="/files/Infographic_2A___Licence_Application_Process.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infographic_2A___Licence_Application_Process.jpg"></a>
 <p>
 <br><strong>Where to Apply</strong>
