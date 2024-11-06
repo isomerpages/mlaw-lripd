@@ -7,7 +7,7 @@ variant: tiptap
 <h2><strong>Licence Application Process</strong></h2>
 <p>
 <br><a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Where to Apply" rel="noopener nofollow" target="_blank">Where to Apply</a>|
-<a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Documents Required" rel="noopener nofollow" target="_blank">Documents Required</a>| <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Validity of the Licence" rel="noopener nofollow" target="_blank">Validity of the Licence</a> |
+<a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Documents Required" rel="noopener nofollow" target="_blank">Documents Required</a>| <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Validity of the Licence" rel="noopener nofollow" target="_blank">Validity of the Licence</a>|
 <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Prescribed Fee" rel="noopener nofollow" target="_blank">Prescribed Fee</a>| <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Processing Time" rel="noopener nofollow" target="_blank">Processing Time</a>|
 <br><a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Notification of Outcome" rel="noopener nofollow" target="_blank">Notification of Outcome</a>|
 <a href="https://lripd.mlaw.gov.sg/information-for-insolvency-practitioners/licence-application-process/#Need Help?" rel="noopener nofollow" target="_blank">Need Help?</a>
