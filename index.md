@@ -22,7 +22,9 @@ sections:
         - title: Contact Us
           description: Find the answers to your questions
           url: https://eservices.mlaw.gov.sg/enquiry/
-notification: ""
+notification: With effect from 11 November 2024, we have migrated from
+  GoBusiness Licensing Portal to GoBusiness Dashboard. To apply for a licence,
+  please click here.
 description: Description
 image: /images/isomer-logo.svg
 ---
