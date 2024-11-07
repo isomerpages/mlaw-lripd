@@ -24,7 +24,7 @@ sections:
           url: https://eservices.mlaw.gov.sg/enquiry/
 notification: With effect from 11 November 2024, we have migrated from
   GoBusiness Licensing Portal to GoBusiness Dashboard. To apply for a licence,
-  please click here.
+  please access via https://dashboard.gobusiness.gov.sg/login.
 description: Description
 image: /images/isomer-logo.svg
 ---
