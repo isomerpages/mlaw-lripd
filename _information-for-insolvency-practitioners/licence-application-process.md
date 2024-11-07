@@ -261,10 +261,8 @@ application will also be available on the GoBusiness Dashboard.
 <br><strong>Need Help?</strong>
 <br>
 <br>If you encounter difficulties or are uncertain of how a licence application
-should be submitted on the GoBusiness Licensing Portal, please refer to
-our [Licence Application Guide](/files/20230428 licence application guide
-for insolvency practitioners.pdf) for insolvency practitioners for more
-information.
+should be submitted on the GoBusiness Dashboard, please refer to our
+<a href="/files/Licence_Application_Guide_for_Insolvency_Practitioners_as_at_11_November_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Licence Application Guide</a>for insolvency practitioners for more information.
 <br>
 <br>
 </p>
