@@ -141,9 +141,7 @@ role.</p>
 </tbody>
 </table>
 <p>
-<br>
-</p>
-<p>d) For purposes of satisfying the requirements under <a href="https://sso.agc.gov.sg/SL-Supp/S246-2023/Published/20230427?DocDate=20230427&amp;WholeDoc=1" rel="noopener noreferrer nofollow" target="_blank">Regulation 5(3A) of the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) (Amendment) Regulations 2023</a> (“IRD
+<br>d) For purposes of satisfying the requirements under <a href="https://sso.agc.gov.sg/SL-Supp/S246-2023/Published/20230427?DocDate=20230427&amp;WholeDoc=1" rel="noopener noreferrer nofollow" target="_blank">Regulation 5(3A) of the Insolvency, Restructuring and Dissolution (Insolvency Practitioners) (Amendment) Regulations 2023</a> (“IRD
 (IP) Regs 2023”), the supporting documents will include but are not limited
 to:
 <br>
@@ -214,24 +212,16 @@ the following electronic payment modes:
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PayPal;
-<br>
-</p>
+<p>PayPal;</p>
 </li>
 <li>
-<p>VISA;
-<br>
-</p>
+<p>VISA;</p>
 </li>
 <li>
-<p>Mastercard;
-<br>
-</p>
+<p>Mastercard;</p>
 </li>
 <li>
-<p>American Express; or
-<br>
-</p>
+<p>American Express; or</p>
 </li>
 <li>
 <p>Discover.
@@ -264,11 +254,5 @@ application will also be available on the GoBusiness Dashboard.
 should be submitted on the GoBusiness Dashboard, please refer to our
 <a href="/files/Licence_Application_Guide_for_Insolvency_Practitioners_as_at_11_November_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Licence Application Guide</a>for insolvency practitioners for more information.
 <br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/contact%20details%20260122.jpg">
-</div>
-<p>
 <br>
 </p>
