@@ -23,8 +23,8 @@ sections:
           description: Find the answers to your questions
           url: https://eservices.mlaw.gov.sg/enquiry/
 notification: With effect from 11 November 2024, the licensing portal will be
-  migrated from GoBusiness Licensing Portal to GoBusiness Dashboard. To apply
-  for an insolvency practitioner’s licence, please login to
+  migrated from LicenceOne GoBusiness Licensing Portal to GoBusiness Dashboard.
+  To apply for an insolvency practitioner’s licence, please login to
   https://dashboard.gobusiness.gov.sg/login.
 description: Description
 image: /images/isomer-logo.svg
