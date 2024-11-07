@@ -2,6 +2,7 @@
 title: Applying for an Insolvency Practitioner's Licence
 permalink: /information-for-insolvency-practitioners/applying-for-an-insolvency-practitioner-licence/
 breadcrumb: Applying for an Insolvency Practitioner's Licence
+variant: markdown
 ---
 **Applying for an Insolvency Practitioner's Licence**
 ---
@@ -45,7 +46,8 @@ b) Has acted as the equivalent of a licensed insolvency practitioner in relation
 
 * That are international and commercial in nature; ***or***<br>
 * Where relief was sought from a court of a foreign jurisdiction under the Model Law as given effect in that jurisdiction.
-<br><br><br>
+<br>
+
 **3. “Fit and Proper”**
 <br><br>
 In determining whether an applicant is a “fit and proper” person to hold or continue to hold the insolvency practitioner’s licence, the Licensing Officer may take into account any matter he considers relevant, including any of the following:

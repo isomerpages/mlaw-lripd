@@ -1,7 +1,6 @@
 ---
 layout: homepage
 title: Ministry of Law - Licensing & Regulation of Insolvency Practitioners
-url: ""
 permalink: /
 sections:
   - hero:
@@ -12,7 +11,7 @@ sections:
       url: /information-for-public/about-the-licensing-officer/
       key_highlights:
         - title: Applying for an Insolvency Practitioner's Licence
-          description: null
+          description: ""
           url: /information-for-insolvency-practitioners/licence-application-process/
         - title: Register of Insolvency Practitioners
           description: Get the list of licensed Insolvency Practitioners in Singapore
@@ -23,7 +22,10 @@ sections:
         - title: Contact Us
           description: Find the answers to your questions
           url: https://eservices.mlaw.gov.sg/enquiry/
-notification: ""
+notification: With effect from 11 November 2024, the licensing portal will be
+  migrated from LicenceOne GoBusiness Licensing Portal to GoBusiness Dashboard.
+  To apply for an insolvency practitioner’s licence, please login to
+  https://dashboard.gobusiness.gov.sg/login.
 description: Description
 image: /images/isomer-logo.svg
 ---
