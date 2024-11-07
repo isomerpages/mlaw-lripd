@@ -252,7 +252,8 @@ application will also be available on the GoBusiness Dashboard.
 <br>
 <br>If you encounter difficulties or are uncertain of how a licence application
 should be submitted on the GoBusiness Dashboard, please refer to our
-<a href="/files/Licence_Application_Guide_for_Insolvency_Practitioners_as_at_11_November_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Licence Application Guidefor insolvency practitioners</a>for more information.
+<a href="/files/Licence_Application_Guide_for_Insolvency_Practitioners_as_at_11_November_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Licence Application Guidefor insolvency practitioners</a>for for more
+information.
 <br>
 <br>
 </p>
