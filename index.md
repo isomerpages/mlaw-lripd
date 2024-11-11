@@ -18,7 +18,7 @@ sections:
           url: /information-for-public/register-of-insolvency-practitioners/
         - title: FAQs
           description: Answers to common questions
-          url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
+          url: https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355
         - title: Contact Us
           description: Find the answers to your questions
           url: https://eservices.mlaw.gov.sg/enquiry/
