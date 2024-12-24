@@ -21,7 +21,7 @@ sections:
           url: https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355
         - title: Contact Us
           description: Find the answers to your questions
-          url: https://eservices.mlaw.gov.sg/enquiry/
+          url: https://www.go.gov.sg/contactminlaw
 notification: With effect from 11 November 2024, the licensing portal will be
   migrated from LicenceOne GoBusiness Licensing Portal to GoBusiness Dashboard.
   To apply for an insolvency practitioner’s licence, please login to
