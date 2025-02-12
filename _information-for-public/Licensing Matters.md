@@ -53,7 +53,7 @@ by reason of the expiry of his licence.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 12 February 2025, Mr Chieng Leong Kwong ceased to be a licensed insolvency
-practitioner by reason of the cancellation of his licence.</p>
+practitioner by reason of the withdrawal of the renewal of his licence.</p>
 </div>
 </details>
 </div>
