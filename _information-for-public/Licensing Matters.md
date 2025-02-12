@@ -7,6 +7,16 @@ description: ""
 <h3><strong>2024</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Mr Chieng Leong Kwong</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 12 February 2025, Mr Chieng Leong Kwong ceased to be a licensed insolvency
+practitioner by reason of the cancellation of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Mr Amran Bin Robani</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
