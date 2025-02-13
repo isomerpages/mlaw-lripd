@@ -4,6 +4,17 @@ permalink: /licensing-matters/
 variant: tiptap
 description: ""
 ---
+<h3><strong>2025</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Chieng Leong Kwong</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 12 February 2025, Mr Chieng Leong Kwong ceased to be a licensed insolvency
+practitioner by reason of his withdrawal of his renewal.</p>
+</div>
+</details>
+</div>
 <h3><strong>2024</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -44,16 +55,6 @@ his conduct in relation to CA/CA 146/2019.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2024, Mr Chan Kum Kit ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Mr Chieng Leong Kwong</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>On 12 February 2025, Mr Chieng Leong Kwong ceased to be a licensed insolvency
-practitioner by reason of the withdrawal of the renewal of his licence.</p>
 </div>
 </details>
 </div>
