@@ -24,8 +24,11 @@ sections:
           url: https://www.go.gov.sg/contactminlaw
 notification: Government officials will NEVER ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam. For more
-  information, visit www.scamshield.gov.sg.
+  Helpline at 1799 if you are unsure if something is a scam. For more anti-scam
+  tips, visit https://www.scamshield.gov.sg/. With effect from 11 November 2024,
+  we have migrated from GoBusiness Licensing Portal to GoBusiness Dashboard. To
+  apply for a licence, please access via
+  https://dashboard.gobusiness.gov.sg/login.
 description: Description
 image: /images/isomer-logo.svg
 ---
