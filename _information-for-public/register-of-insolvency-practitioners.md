@@ -5,14 +5,15 @@ breadcrumb: Register of Insolvency Practitioners
 variant: tiptap
 ---
 <h2><strong>Register of Insolvency Practitioners</strong><br></h2>
-<p>Please click <a href="/files/Register_of_Licensed_Insolvency_Practitioners_2025_06_01_v1.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Register_of_Licensed_Insolvency_Practitioners_2025_07_01_v1.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the list of licensed insolvency practitioners in Singapore.
 <br>
 </p>
 <p>For the licensed insolvency practitioners whose licence end date reflects
-as <strong>30 June 2024</strong>, please note that their existing licence
-continues to be in force until the date on which the licence is renewed
-or the renewal application is refused, pursuant to <strong><a href="https://sso.agc.gov.sg/Act/IRDA2018?ValidDate=20220630&amp;ProvIds=pr51-#pr51-" rel="noopener noreferrer nofollow" target="_blank">section 51(6)</a></strong> of
+as <strong>30 June 2024</strong> or <strong>30 June 2025</strong>, please
+note that their existing licence continues to be in force until the date
+on which the licence is renewed or the renewal application is refused,
+pursuant to <strong><a href="https://sso.agc.gov.sg/Act/IRDA2018?ValidDate=20220630&amp;ProvIds=pr51-#pr51-" rel="noopener noreferrer nofollow" target="_blank">section 51(6)</a></strong> of
 the Insolvency, Restructuring and Dissolution Act 2018.</p>
 <p><strong>Update of Particulars</strong>
 <br>
