@@ -25,19 +25,13 @@ insolvency practitioner by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Mr Tan Tat Ming James</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>On 16 July 2025, Mr Tan Tat Ming James ceased to be a licensed insolvency
-practitioner by reason of the expiry of his licence.</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>On 16 July 2025, Mr Tan Tat Ming James ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
