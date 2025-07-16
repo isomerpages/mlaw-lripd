@@ -25,13 +25,10 @@ sections:
 notification: With effect from 11 November 2024, the licensing portal will be
   migrated from LicenceOne GoBusiness Licensing Portal to GoBusiness Dashboard.
   To apply for an insolvency practitioner’s licence, please login to <a
-  href="https://dashboard.gobusiness.gov.sg/login">www.dashboard.gobusiness.gov.sg</a>.<br><br>Please
-  be advised that system maintenance is planned from 6:00 PM on 11 July 2025 to
-  8:00 AM on 14 July 2025. For queries, please contact us at <a
-  href="https://go.gov.sg/contactminlaw">here</a>. <br><br>Government officials
-  will <b>NEVER</b> ask you to transfer money or disclose bank log-in details
-  over a phone call. Call the 24/7 ScamShield Helpline at 1799 if you are unsure
-  if something is a scam. For more information, visit <a
+  href="https://dashboard.gobusiness.gov.sg/login">www.dashboard.gobusiness.gov.sg</a>.<br><br>Government
+  officials will <b>NEVER</b> ask you to transfer money or disclose bank log-in
+  details over a phone call. Call the 24/7 ScamShield Helpline at 1799 if you
+  are unsure if something is a scam. For more information, visit <a
   href="https://www.scamshield.gov.sg/">www.scamshield.gov.sg</a>.
 description: Description
 image: /images/isomer-logo.svg
