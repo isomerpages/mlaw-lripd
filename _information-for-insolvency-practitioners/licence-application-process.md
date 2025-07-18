@@ -212,19 +212,22 @@ the following electronic payment modes:
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PayPal;</p>
-</li>
-<li>
 <p>VISA;</p>
 </li>
 <li>
 <p>Mastercard;</p>
 </li>
 <li>
+<p>JCB;</p>
+</li>
+<li>
+<p>DCS;</p>
+</li>
+<li>
 <p>American Express; or</p>
 </li>
 <li>
-<p>Discover.
+<p>UnionPay.
 <br>
 </p>
 </li>
