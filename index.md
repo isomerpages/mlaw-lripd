@@ -18,7 +18,7 @@ sections:
           url: /information-for-public/register-of-insolvency-practitioners/
         - title: FAQs
           description: Answers to common questions
-          url: https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355
+          url: https://ask.gov.sg/mlaw
         - title: Contact Us
           description: Find the answers to your questions
           url: https://www.go.gov.sg/contactminlaw
