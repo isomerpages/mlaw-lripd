@@ -9,12 +9,6 @@ variant: tiptap
 the list of licensed insolvency practitioners in Singapore.
 <br>
 </p>
-<p>For the licensed insolvency practitioners whose licence end date reflects
-as <strong>30 June 2024</strong> or <strong>30 June 2025</strong>, please
-note that their existing licence continues to be in force until the date
-on which the licence is renewed or the renewal application is refused,
-pursuant to <strong><a href="https://sso.agc.gov.sg/Act/IRDA2018?ValidDate=20220630&amp;ProvIds=pr51-#pr51-" rel="noopener noreferrer nofollow" target="_blank">section 51(6)</a></strong> of
-the Insolvency, Restructuring and Dissolution Act 2018.</p>
 <p><strong>Update of Particulars</strong>
 <br>
 </p>
