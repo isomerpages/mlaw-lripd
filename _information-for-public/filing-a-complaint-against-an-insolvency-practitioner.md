@@ -12,8 +12,10 @@ submitting it to us <a href="http://www.go.gov.sg/contactminlaw" rel="noopener n
 with the relevant supporting documents. Alternatively, the documents may
 be sent via post to:
 <br>
-<br><strong>Licensing Officer</strong>
-<br>MinLaw Mailroom, 45 Maxwell Road, The URA Centre (East Wing), #06-01
+<br><strong>Attn: Licensing Officer</strong>
+<br>MinLaw Mailroom
+<br>45 Maxwell Road
+<br>#06-01 The URA Centre (East Wing)
 <br>Singapore 069118
 <br>
 </p>
