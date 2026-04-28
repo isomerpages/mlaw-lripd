@@ -5,7 +5,7 @@ breadcrumb: Register of Insolvency Practitioners
 variant: tiptap
 ---
 <h2><strong>Register of Insolvency Practitioners</strong><br></h2>
-<p>Please click <a href="/files/Register_of_Licensed_Insolvency_Practitioners_2026_03_09_v1.pdf" rel="noopener nofollow" target="_blank">here</a> for
+<p>Please click <a href="/files/Register_of_Licensed_Insolvency_Practitioners_2026_04_20_v1.pdf" rel="noopener nofollow" target="_blank">here</a> for
 the list of licensed insolvency practitioners in Singapore.
 <br>
 </p>
@@ -19,7 +19,7 @@ is made.
 <br>
 <br>Please update the change(s) via the Government’s <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener nofollow" target="_blank">GoBusiness Dashboard</a> by
 clicking under "Licence Application" and "Amend Existing Licence". Please
-refer to our step-by-step <a href="/files/Licence_Application_Guide_for_Insolvency_Practitioners_as_at_24_December_2024.pdf" rel="noopener nofollow" target="_blank">Licence Application Guide</a> for
+refer to our step-by-step <a href="/files/Licence_Application___Management_Guide_for_Insolvency_Practitioners_as_at_1_April_2026.pdf" rel="noopener nofollow" target="_blank">Licence Application Guide</a> for
 more information.
 <br>
 <br>

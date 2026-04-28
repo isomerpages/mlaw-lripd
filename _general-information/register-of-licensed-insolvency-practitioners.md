@@ -1,18 +1,19 @@
 ---
-title: 'Register Of Licensed Insolvency Practitioners'
+title: Register Of Licensed Insolvency Practitioners
 permalink: /general-information/register-of-licensed-insolvency-practitioners/
-breadcrumb: 'Register Of Licensed Insolvency Practitioners'
-
+breadcrumb: Register Of Licensed Insolvency Practitioners
+variant: tiptap
 ---
-
-
-
-***Register of Licensed Insolvency Practitioners in Singapore***<br>
----
-**List of licensed Insolvency Practitioners""
-Please click [here](/files/ML List as at 1 Jan 2020.pdf) (112kb) to view the list of licensed Insolvency Practitioners in Singapore.
+<h2><strong><em>Register of Licensed Insolvency Practitioners in Singapore</em></strong><br></h2>
+<p><strong>List of licensed Insolvency Practitioners </strong>
+</p>
+<p>Please click <a href="https://lripd.mlaw.gov.sg/files/Register_of_Licensed_Insolvency_Practitioners_2026_03_09_v1.pdf" rel="noopener nofollow" target="_blank">here</a> to
+view the list of licensed Insolvency Practitioners in Singapore.
 <br>
-**List of revoked and suspended Insolvency Practitioners** <br>
-Please click here to view the list of individuals whose Insolvency Practitioner licences are revoked or suspended by the Licensing Officer under section 56 of the Insolvency, Restructuring and Dissolution Act (20XX). <br> 
-
-Document would require Adobe Reader. Haven't got Adobe Reader? Download it here{:target="_blank"}.
+<br><strong>List of revoked and suspended Insolvency Practitioners</strong> 
+<br>
+<br>Please click <a href="https://lripd.mlaw.gov.sg/licensing-matters/" rel="noopener nofollow" target="_blank">here</a> to
+view the list of individuals whose Insolvency Practitioner licences are
+revoked or suspended by the Licensing Officer under section 56 of the Insolvency,
+Restructuring and Dissolution Act (2018).</p>
+<p></p>
