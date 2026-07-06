@@ -41,7 +41,7 @@ practitioner by reason of the expiry of his licence.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2026, Mdm Goh Hwee Cheng ceased to be a licensed insolvency
-practitioner by reason of the expiry of his licence.</p>
+practitioner by reason of the expiry of her licence.</p>
 </div>
 </details>
 </div>
@@ -91,7 +91,7 @@ practitioner by reason of the expiry of his licence.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2026, Ms Low Sok Lee Mona ceased to be a licensed insolvency
-practitioner by reason of the expiry of his licence.</p>
+practitioner by reason of the expiry of her licence.</p>
 </div>
 </details>
 </div>
@@ -101,7 +101,7 @@ practitioner by reason of the expiry of his licence.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2026, Ms Lynn Ong Bee Ling ceased to be a licensed insolvency
-practitioner by reason of the expiry of his licence.</p>
+practitioner by reason of the expiry of her licence.</p>
 </div>
 </details>
 </div>
@@ -111,7 +111,7 @@ practitioner by reason of the expiry of his licence.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2026, Ms Tan Boon Tin ceased to be a licensed insolvency practitioner
-by reason of the expiry of his licence.</p>
+by reason of the expiry of her licence.</p>
 </div>
 </details>
 </div>
@@ -121,7 +121,7 @@ by reason of the expiry of his licence.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>On 1 July 2026, Ms Teo Chai Choo ceased to be a licensed insolvency practitioner
-by reason of the expiry of his licence.</p>
+by reason of the expiry of her licence.</p>
 </div>
 </details>
 </div>
