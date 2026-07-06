@@ -4,6 +4,137 @@ permalink: /licensing-matters/
 variant: tiptap
 description: ""
 ---
+<h3><strong>2026</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Andrew Grimmett</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mr Andrew Grimmett ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Chan Joo Kee</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mr Chan Joo Kee ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Christopher Bruce Johnson</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mr Christopher Bruce Johnson ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Goh Hwee Cheng</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mr Goh Hwee Cheng ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Jamshid K Medora</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mr Jamshid K Medora ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Leong Hon Mun Peter</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mr Leong Hon Mun Peter ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Lim Chee San</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mr Lim Chee San ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Low Siew Sie Bob</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mr Low Siew Sie Bob ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Low Sok Lee Mona</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Ms Low Sok Lee Mona ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Lynn Ong Bee Ling</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Ms Lynn Ong Bee Ling ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Ms Tan Boon Tin</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Ms Tan Boon Tin ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Teo Chai Choo</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mr Teo Chai Choo ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Mr Yong Chor Ken</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mr Yong Chor Ken ceased to be a licensed insolvency practitioner
+by reason of the expiry of his licence.</p>
+</div>
+</details>
+</div>
 <h3><strong>2025</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
