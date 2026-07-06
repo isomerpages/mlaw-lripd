@@ -37,11 +37,11 @@ practitioner by reason of the expiry of his licence.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Goh Hwee Cheng</strong>
+<summary><strong>Mdm Goh Hwee Cheng</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2026, Mr Goh Hwee Cheng ceased to be a licensed insolvency practitioner
-by reason of the expiry of his licence.</p>
+<p>On 1 July 2026, Mdm Goh Hwee Cheng ceased to be a licensed insolvency
+practitioner by reason of the expiry of his licence.</p>
 </div>
 </details>
 </div>
@@ -117,10 +117,10 @@ by reason of the expiry of his licence.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Mr Teo Chai Choo</strong>
+<summary><strong>Ms Teo Chai Choo</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2026, Mr Teo Chai Choo ceased to be a licensed insolvency practitioner
+<p>On 1 July 2026, Ms Teo Chai Choo ceased to be a licensed insolvency practitioner
 by reason of the expiry of his licence.</p>
 </div>
 </details>
