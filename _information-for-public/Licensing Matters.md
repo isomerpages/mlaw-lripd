@@ -37,6 +37,16 @@ practitioner by reason of the expiry of his licence.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Mdm Goh Hwee Cheng</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 1 July 2026, Mdm Goh Hwee Cheng ceased to be a licensed insolvency
+practitioner by reason of the expiry of her licence.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Mr Hamish Alexander Christie</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -44,16 +54,6 @@ practitioner by reason of the expiry of his licence.</p>
 insolvency practitioner following the revocation of his licence under section
 56(1)(<em>l</em>) of the Insolvency, Restructuring and Dissolution Act
 2018 by reason of his demise.</p>
-</div>
-</details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Mdm Goh Hwee Cheng</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>On 1 July 2026, Mdm Goh Hwee Cheng ceased to be a licensed insolvency
-practitioner by reason of the expiry of her licence.</p>
 </div>
 </details>
 </div>
