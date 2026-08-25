@@ -37,6 +37,18 @@ practitioner by reason of the expiry of his licence.</p>
 </div>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary><strong>Mr Hamish Alexander Christie</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>On 26 August 2026, Mr Hamish Alexander Christie ceased to be a licensed
+insolvency practitioner following the revocation of his licence under section
+56(1)(<em>l</em>) of the Insolvency, Restructuring and Dissolution Act
+2018 by reason of his demise.</p>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
 <summary><strong>Mdm Goh Hwee Cheng</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
