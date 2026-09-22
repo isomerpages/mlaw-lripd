@@ -31,8 +31,8 @@ notification: With effect from 11 November 2024, the licensing portal will be
   are unsure if something is a scam. For more information, visit <a
   href="https://www.scamshield.gov.sg/">www.scamshield.gov.sg</a>.<br><br>We are
   refreshing the Ministry of Law websites. Information from this website will be
-  moved to <a href="www.mlaw.gov.sg/">www.mlaw.gov.sg</a> for a more seamless
-  experience. Watch this space for updates.
+  moved to <a href="https://www.mlaw.gov.sg/">www.mlaw.gov.sg</a> for a more
+  seamless experience. Watch this space for updates.
 description: Description
 image: /images/isomer-logo.svg
 ---
